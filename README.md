@@ -1,35 +1,65 @@
-# Proyecto-no-IA-1
+# 🗺️ LocalSpot - Red Social de Recomendaciones Locales
 
-## Project Overview
+## 📖 Descripción del Proyecto
 
-This project is a comprehensive application designed to manage and organize information efficiently. It provides a robust backend system with modern web technologies to deliver a seamless user experience.
+LocalSpot es una plataforma web donde los usuarios pueden compartir y descubrir lugares locales como restaurantes, cafés, bares, parques, museos y tiendas. La aplicación permite a los usuarios explorar recomendaciones de la comunidad, leer opiniones, ver fotos y encontrar lugares interesantes cerca de su ubicación.
 
-## General Functionalities
+## 🎯 Objetivo
 
-- **Data Management**: Create, read, update, and delete operations for various data entities
-- **User Authentication**: Secure user registration and login system
-- **RESTful API**: Well-structured API endpoints for client-server communication
-- **Database Integration**: Persistent data storage with relational database support
-- **Scalable Architecture**: Modular design following best practices for maintainability
+Crear una red social enfocada en recomendaciones de lugares locales que permita:
+- Descubrir nuevos lugares cerca de tu ubicación
+- Compartir experiencias y recomendaciones con la comunidad
+- Leer opiniones auténticas de otros usuarios
+- Explorar lugares en un mapa interactivo
+- Guardar tus lugares favoritos para visitarlos después
 
-## Technology Stack
+## ⚡ Funcionalidades Principales
 
-- **Backend Framework**: Modern Python-based web framework
-- **Database**: Relational database management system
-- **API**: RESTful architecture for data exchange
-- **Version Control**: Git for source code management
+### Gestión de Usuarios
+- Registro e inicio de sesión
+- Perfil personalizable con foto y biografía
+- Historial de lugares compartidos y reseñas
 
-## Getting Started
+### Lugares
+- Publicar nuevos lugares con información detallada
+- Agregar fotos y descripciones
+- Categorización por tipo de establecimiento
+- Sistema de etiquetas personalizadas
+- Edición y eliminación de tus publicaciones
 
-1. Clone the repository
-2. Install required dependencies
-3. Configure the database connection
-4. Run the application
+### Sistema de Reseñas
+- Calificar lugares visitados
+- Escribir comentarios y compartir experiencias
+- Subir fotos de tus visitas
+- Ver opiniones de otros usuarios
 
-## Purpose
+### Exploración
+- Buscar lugares por nombre, categoría o ubicación
+- Filtrar resultados por diversos criterios
+- Visualizar lugares en un mapa interactivo
+- Descubrir lugares cerca de ti
 
-This project serves as a practical implementation of web development concepts, demonstrating how to build a full-featured backend application with proper architecture and design patterns.
+### Interacción Social
+- Guardar lugares como favoritos
+- Seguir a otros usuarios
+- Ver actividad reciente de la comunidad
+- Compartir lugares con amigos
 
-## License
+## 🛠️ Tecnologías
 
-This project is available for educational and development purposes.
+- **Frontend**: React, Vite, Tailwind CSS
+- **Backend**: Express.js, MongoDB
+- **APIs Externas**: Mapas, almacenamiento de imágenes, compartir en redes
+
+## 📋 Desarrollo
+
+Este proyecto se desarrolla en fases incrementales, completando cada etapa antes de avanzar a la siguiente.
+
+## 🚀 Filosofía del Proyecto
+
+Este proyecto está siendo desarrollado **sin el uso de inteligencia artificial para generar código**, como ejercicio de práctica y aprendizaje de habilidades de programación.
+
+---
+
+**Estado**: En desarrollo  
+**Inicio**: Diciembre 2025
